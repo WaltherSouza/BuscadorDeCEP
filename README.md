@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Projeto para buscar Cep, JavaScript, ReactJs, HTML e CSS
 
-<img src="projetovisual.png" alt="Texto Alternativo">
+<img src="projeto visual.png" alt="Texto Alternativo">
